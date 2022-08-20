@@ -50,4 +50,5 @@ public class Integrante {
         System.out.println("\nInnoveD Col - Un gran equipo de desarrolladores de software con el mejor componente innovador!");
         System.out.println("-> Mira nuestro trabajo en https://github.com/InnoveDCol <-");
     }
+
 }

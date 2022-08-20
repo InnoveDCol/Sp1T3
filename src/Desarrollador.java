@@ -10,4 +10,8 @@ public class Desarrollador extends Integrante {
     public void presentacion() {
         System.out.println("Hola! Mi nombre es " + getNombreCompleto() + ", soy " + getRol() + " de "+ getNombreEquipo() +" y estoy en el grupo " + getGrupo() + ".");
     }
+
+    public void presentacionAlejandra () {
+        System.out.println("¡Hola! Soy alejandra, estudiante de ingeniería de sistemas");
+    }
 }
